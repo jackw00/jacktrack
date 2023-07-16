@@ -1,3 +1,0 @@
-Add login
-Add ability to search by date
-Add ability to add reps and weight amoutn not just sets
